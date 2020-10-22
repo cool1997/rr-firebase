@@ -53,7 +53,6 @@ const App = ({ ...props }) => {
           <button>add</button>
         </form>
         <ul>
-          test
           {taskList.map((task) => (
             <li key={task.id}>
               <div>{task.title}</div>
