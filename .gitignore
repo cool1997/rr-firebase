@@ -1,2 +1,16 @@
+.DS_STORE
 node_modules
-.DS_Store
+.flowconfig
+*~
+*.pyc
+_SpecRunner.html
+__benchmarks__
+build/
+remote-repo/
+coverage/
+.module-cache
+*.log*
+chrome-user-data
+.vscode
+*.swp
+*.swo
