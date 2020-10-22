@@ -1,0 +1,11 @@
+.formControl {
+  display: grid;
+  grid-gap: 20px;
+  position: relative;
+
+  &.error {
+    & :first-child {
+      border: 2px solid var(--accent_color);
+    }
+  }
+}

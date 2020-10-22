@@ -1,0 +1,13 @@
+.preloader {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  background-color: #fff;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: var(--theme_color);
+  opacity: 0.7;
+}

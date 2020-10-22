@@ -1,0 +1,100 @@
+:root {
+  --main_color: #fff;
+  --contrast_color: #000;
+  --accent_color: #f00;
+  --light_color: #eee;
+  --dark_color: #303030;
+  --middle_color: #ccc;
+  --active_color: #fc0;
+  --primary_color: #C49A9A;
+  --btn_color: rgb(112, 154, 245);
+  --theme_color: #fff;
+  --theme_font_color: #000;
+
+  /* --light_theme: #fff;
+  --middle_theme: #777;
+  --dark_theme: #101010; */
+
+  --main_font_color: #000;
+  --contrast_font_color: #fff;
+}
+
+
+.theme_grey {
+  --main_color: #fff;
+  --contrast_color: #000;
+  --accent_color: #f00;
+  --light_color: #666;
+  --dark_color: #111;
+  --middle_color: #333;
+  --primary_color: #222;
+  --btn_color: #111;
+  --theme_color: #777;
+  --theme_font_color: #000;
+
+  --main_font_color: #000;
+  --contrast_font_color: #fff;
+}
+
+.theme_black {
+  --main_color: #000;
+  --contrast_color: #fff;
+  --accent_color: #f00;
+  --light_color: #000;
+  --dark_color: #000;
+  --middle_color: #ccc;
+  --primary_color: #649A9A;
+  --btn_color: #649A9A;
+  --theme_color: #000;
+  --theme_font_color: #fff;
+
+  --main_font_color: #fff;
+  --contrast_font_color: #000;
+}
+
+/* 
+
+
+
+
+ // Font
+$mainFont                : 'pt_sans_narrow', Helvetica, Arial, sans-serif;
+
+$mainFontColor           : #ffffff;
+$mainFontSize            : 14px;
+$mainFontWeight          : 700;
+$mainLineHeight          : 24px;
+
+$desktopWidth            : 1280px;
+$smDesktopWidth          : 960px;
+$tableWidth              : 768px;
+$phoneWidthOnly          : 767px;
+$phoneWidth              : 480px;
+$smPhoneWidth            : 320px;
+
+
+// Retina
+$retina-dpi              : 144dpi;
+$retina-dppx             : 1.5dppx;
+
+// Main color
+--default_color           : #ffffff;
+--contrast_color          : #000000;
+--primary_color           : #444ce0;
+--success_color           : #26de81;
+--danger_color            : #fc5c65;
+--warning_color           : #fed330;
+--light_color             : #999999;
+--purple_color            : #8854d0;
+
+// Neutral Color
+$neutral-primary         : #303133;
+$neutral-regular         : #606266;
+$neutral-secondary       : #909399;
+$neutral-placeholder     : #C0C4CC;
+
+// Border Color
+$border-base             : #DCDFE6;
+$border-light            : #E4E7ED;
+$border-lighter          : #EBEEF5;
+$border-lightex          : #F2F6FC; */
