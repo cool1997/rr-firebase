@@ -50,7 +50,7 @@ const App = ({ ...props }) => {
             </Toggler>
           </header>
           <Typography as={NavLink} to={`/`} activeClassName={`active`}>
-            hi
+            <h1>hi</h1>
           </Typography>
           <form onSubmit={Handle.submit}>
             <Input
